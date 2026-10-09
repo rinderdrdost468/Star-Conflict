@@ -231,4 +231,4 @@ Star Conflict is offered as a **full free version**, ensuring that you have comp
 Embark on your space adventure now! Download **Star Conflict** for Windows and lead your fleet to victory!
 
 ---
-**Last updated:** 2026-10-09 16:00:09 UTC
+**Last updated:** 2026-10-09 20:48:41 UTC
